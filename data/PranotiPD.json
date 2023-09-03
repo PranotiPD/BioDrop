@@ -1,0 +1,16 @@
+{
+    "name": "Pranoti Durugkar",
+    "bio": "Software developer with new-found zeal for open source",
+    "links": [
+        {
+            "name": "Follow me on Github",
+            "url": "https://github.com/PranotiPD",
+            "icon": "FaGithub"
+        },
+        {
+            "name": "Follow me on Twitter",
+            "url": "https://twitter.com/Pranoti1221",
+            "icon": "FaTwitter"
+        },
+    ]
+}
